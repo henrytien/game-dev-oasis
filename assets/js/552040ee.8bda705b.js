@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgame_dev_oasis=self.webpackChunkgame_dev_oasis||[]).push([[3341],{168:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/game-dev-oasis/blog/tags/hello","allTagsPath":"/game-dev-oasis/blog/tags","count":1}')}}]);

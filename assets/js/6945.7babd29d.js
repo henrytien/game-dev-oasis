@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgame_dev_oasis=self.webpackChunkgame_dev_oasis||[]).push([[6945],{6945:(e,s,a)=>{a.r(s)}}]);

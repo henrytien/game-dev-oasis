@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/game-dev-oasis/blog/welcome"},{"title":"MDX Blog Post","permalink":"/game-dev-oasis/blog/mdx-blog-post"},{"title":"First Blog Post","permalink":"/game-dev-oasis/blog/first-blog-post"}]}')}}]);
